@@ -1,0 +1,63 @@
+id: 883aa8e88f31401b9c1bd4d0048e093b
+annotation_type: index
+revision: '00001'
+annotations:
+  cb89ec9fbdec4010a7946e401a4eb098:
+    base: FFE4.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 8
+    - title: Preface
+      span:
+        start: 9
+        end: 42
+    - title: 'Chapter 1: Gṛhapati'
+      span:
+        start: 43
+        end: 5682
+    - title: 'Chapter 2: Kimbhīrayakṣa'
+      span:
+        start: 5683
+        end: 5704
+    - title: 'Chapter 3: Bodhisatvaparīkṣā'
+      span:
+        start: 5705
+        end: 5726
+    - title: 'Chapter 4: Tathāgatācintya'
+      span:
+        start: 5727
+        end: 5748
+    - title: 'Chapter 5: Caturbrahmavihāra'
+      span:
+        start: 5749
+        end: 5770
+    - title: 'Chapter 6: Dānapāramitā'
+      span:
+        start: 5771
+        end: 5792
+    - title: 'Chapter 7: Śīlapāramitā'
+      span:
+        start: 5793
+        end: 5814
+    - title: 'Chapter 8: Kṣāntipāramitā'
+      span:
+        start: 5815
+        end: 5836
+    - title: 'Chapter 9: Vīryapāramitā'
+      span:
+        start: 5837
+        end: 5858
+    - title: 'Chapter 10: Dhyānapāramitā'
+      span:
+        start: 5859
+        end: 6142
+    - title: 'Chapter 11: Prajñāpāramitā'
+      span:
+        start: 6143
+        end: 7237
+    - title: Colophon
+      span:
+        start: 7238
+        end: 7248
